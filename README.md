@@ -10,12 +10,12 @@ Usage:
 ```
 Install
 ```
-wget --no-check-certificate -O appex.sh https://raw.githubusercontent.com/0oVicero0/serverSpeeder_Install/master/appex.sh && chmod +x appex.sh && bash appex.sh install
+wget --no-check-certificate -O appex.sh https://raw.githubusercontent.com/texabc/ServerSpeeder/master/appex.sh && chmod +x appex.sh && bash appex.sh install
 
 ```    
 Uninstall    
 ```
-wget --no-check-certificate -O appex.sh https://raw.githubusercontent.com/0oVicero0/serverSpeeder_Install/master/appex.sh && chmod +x appex.sh && bash appex.sh uninstall
+wget --no-check-certificate -O appex.sh https://raw.githubusercontent.com/texabc/ServerSpeeder/master/appex.sh && chmod +x appex.sh && bash appex.sh uninstall
 
 ```  
 -----------------------------     
